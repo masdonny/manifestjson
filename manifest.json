@@ -1,0 +1,38 @@
+{
+  "name": "Drakor 480p",
+  "short_name": "Drakor 480p",
+  "start_url": "https://www.drakor480p.my.id/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Download Drama dan Movie Korea",
+  "icons": [{
+    "src": "https://4.bp.blogspot.com/-ElTUPHEIS3k/Xd5U_RpGYVI/AAAAAAAAAnA/Bg8PfFyK1Sw0EB2ZMoRyvBqb8lQlbWU0ACLcBGAsYHQ/s48/drakor480p_favicon.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-ElTUPHEIS3k/Xd5U_RpGYVI/AAAAAAAAAnA/Bg8PfFyK1Sw0EB2ZMoRyvBqb8lQlbWU0ACLcBGAsYHQ/s72/drakor480p_favicon.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-ElTUPHEIS3k/Xd5U_RpGYVI/AAAAAAAAAnA/Bg8PfFyK1Sw0EB2ZMoRyvBqb8lQlbWU0ACLcBGAsYHQ/s96/drakor480p_favicon.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-ElTUPHEIS3k/Xd5U_RpGYVI/AAAAAAAAAnA/Bg8PfFyK1Sw0EB2ZMoRyvBqb8lQlbWU0ACLcBGAsYHQ/s144/drakor480p_favicon.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-ElTUPHEIS3k/Xd5U_RpGYVI/AAAAAAAAAnA/Bg8PfFyK1Sw0EB2ZMoRyvBqb8lQlbWU0ACLcBGAsYHQ/s168/drakor480p_favicon.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-ElTUPHEIS3k/Xd5U_RpGYVI/AAAAAAAAAnA/Bg8PfFyK1Sw0EB2ZMoRyvBqb8lQlbWU0ACLcBGAsYHQ/s192/drakor480p_favicon.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-ElTUPHEIS3k/Xd5U_RpGYVI/AAAAAAAAAnA/Bg8PfFyK1Sw0EB2ZMoRyvBqb8lQlbWU0ACLcBGAsYHQ/s512/drakor480p_favicon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
